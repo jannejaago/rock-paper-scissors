@@ -1,0 +1,7 @@
+C:\Users\opilane\Desktop\rock-paper-scissors\rock-paper-scissors\bin\Debug\rock-paper-scissors.exe.config
+C:\Users\opilane\Desktop\rock-paper-scissors\rock-paper-scissors\bin\Debug\rock-paper-scissors.exe
+C:\Users\opilane\Desktop\rock-paper-scissors\rock-paper-scissors\bin\Debug\rock-paper-scissors.pdb
+C:\Users\opilane\Desktop\rock-paper-scissors\rock-paper-scissors\obj\Debug\rock-paper-scissors.csprojResolveAssemblyReference.cache
+C:\Users\opilane\Desktop\rock-paper-scissors\rock-paper-scissors\obj\Debug\rock-paper-scissors.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Desktop\rock-paper-scissors\rock-paper-scissors\obj\Debug\rock-paper-scissors.exe
+C:\Users\opilane\Desktop\rock-paper-scissors\rock-paper-scissors\obj\Debug\rock-paper-scissors.pdb
